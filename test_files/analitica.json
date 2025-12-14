@@ -1,0 +1,11 @@
+{
+  "paciente": "Xoán Pereira",
+  "data": "2025-11-20",
+  "resultados": {
+    "Glicosa (mg/dL)": {"valor": 95, "rango_referencia": "70-100", "estado": "Normal"},
+    "Colesterol Total (mg/dL)": {"valor": 210, "rango_referencia": "Menos de 200", "estado": "Alto"},
+    "Hemoglobina (g/dL)": {"valor": 14.2, "rango_referencia": "13.5-17.5", "estado": "Normal"},
+    "Ferritina (ng/mL)": {"valor": 25, "rango_referencia": "30-400", "estado": "Baixo"}
+  },
+  "notas": "É recomendable revisar o colesterol e os niveis de ferritina nunha consulta co médico de cabeceira."
+}

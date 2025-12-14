@@ -1,0 +1,19 @@
+{
+  "titulo": "Receita de Tarta de Mazá Clásica",
+  "ingredientes": [
+    {"nome": "Mazás", "cantidade": "5 grandes"},
+    {"nome": "Fariña", "cantidade": "200g"},
+    {"nome": "Manteiga", "cantidade": "100g"},
+    {"nome": "Azúcar", "cantidade": "150g"},
+    {"nome": "Canela", "cantidade": "1 cucharadita"}
+  ],
+  "pasos": [
+    "Preparar a masa mesturando fariña, manteiga e un pouco de auga fría.",
+    "Repousar a masa na neveira por 30 minutos.",
+    "Pelar e cortar as mazás en láminas finas.",
+    "Mesturar as mazás co azúcar e a canela.",
+    "Estender a masa e encher coa mestura de mazás.",
+    "Cocer a 180°C durante 45 minutos."
+  ],
+  "tipo": "Cociña"
+}
